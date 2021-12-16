@@ -10,9 +10,8 @@
 # Examples
 
 Run:
-         /target/debug/file_crawler [FILEPATH] [FILE EXTENSION]
-     or
-         cargo run [FILEPATH] [FILE EXTENSION]
+         
+     cargo run [FILEPATH] [FILE EXTENSION]
 
 Output:
      ["target/debug/file_crawler", "tmp", "txt"]
