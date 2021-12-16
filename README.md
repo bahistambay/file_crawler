@@ -11,7 +11,7 @@
 
 Run:
          
-     cargo run [FILEPATH] [FILE EXTENSION]
+     cargo run [dir] [ext]
 
 Output:
      ["target/debug/file_crawler", "tmp", "txt"]
